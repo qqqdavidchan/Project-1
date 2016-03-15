@@ -5,7 +5,6 @@ void reverse(char *begin, char *end);
 void reverseWords(char *s);
 using namespace std;
 
-/*
 int main()
 {
 	char sentence[100];
@@ -17,7 +16,6 @@ int main()
 	system("PAUSE");
 	return 0;
 }
-*/
 void reverseWords(char *word)
 {
 	char *word_begin = word;
