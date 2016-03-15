@@ -14,7 +14,7 @@ case with e eggs and f floors */
 int eggDrop(int e, int f)
 {
 	//the check how many time it went into the function
-	cout << ".";
+	//cout << ".";
 	// If there are no floors, then no trials needed. OR if there is
 	// one floor, one trial needed.
 	if (f == 1 || f == 0)
